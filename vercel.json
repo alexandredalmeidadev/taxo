@@ -1,0 +1,12 @@
+{
+    "buildCommand": "npm run postinstall && next build",
+    "devCommand": "npm run dev",
+    "installCommand": "yarn install --force",
+    "framework": "nextjs",
+    "regions": [
+        "fra1"
+    ],
+    "env": {
+        "NODE_ENV": "production"
+    }
+}
